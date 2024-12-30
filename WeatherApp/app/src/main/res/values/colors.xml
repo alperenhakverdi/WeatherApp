@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="dayTextColor">#333333</color> <!-- Gündüz için siyah metin rengi -->
+    <color name="nightTextColor">#FFFFFF</color> <!-- Gece için beyaz metin rengi -->
+    <color name="dayStatusBarColor">#FF9800</color> <!-- Gündüz için turuncu renk -->
+    <color name="nightStatusBarColor">#1A1A1A</color> <!-- Gece için koyu gri renk -->
+
+</resources>

@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="tarih">Tarih</string>
+    <string name="c">°C</string>
+    <string name="ya_murlu">Yağmurlu</string>
+    <string name="ankara">Ankara</string>
+    <string name="_13">13</string>
+    <string-array name="Sehirler">
+        <item>Şehir Seçin</item>
+        <item>Ankara</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Adana</item>
+        <item>Adıyaman</item>
+        <item>Afyonkarahisar</item>
+        <item>Aksaray</item>
+        <item>Amasya</item>
+        <item>Antalya</item>
+        <item>Ardahan</item>
+        <item>Artvin</item>
+        <item>Aydın</item>
+        <item>Balıkesir</item>
+        <item>Bartın</item>
+        <item>Batman</item>
+        <item>Bayburt</item>
+        <item>Bilecik</item>
+        <item>Bingöl</item>
+        <item>Bitlis</item>
+        <item>Bolu</item>
+        <item>Burdur</item>
+        <item>Bursa</item>
+        <item>Çanakkale</item>
+        <item>Çankırı</item>
+        <item>Çorum</item>
+        <item>Denizli</item>
+        <item>Diyarbakır</item>
+        <item>Düzce</item>
+        <item>Edirne</item>
+        <item>Elazığ</item>
+        <item>Erzincan</item>
+        <item>Erzurum</item>
+        <item>Eskişehir</item>
+        <item>Gaziantep</item>
+        <item>Giresun</item>
+        <item>Gümüşhane</item>
+        <item>Hakkari</item>
+        <item>Hatay</item>
+        <item>Iğdır</item>
+        <item>Isparta</item>
+        <item>Kahramanmaraş</item>
+        <item>Karabük</item>
+        <item>Karaman</item>
+        <item>Kars</item>
+        <item>Kastamonu</item>
+        <item>Kayseri</item>
+        <item>Kilis</item>
+        <item>Kırıkkale</item>
+        <item>Kırklareli</item>
+        <item>Kırşehir</item>
+        <item>Kocaeli</item>
+        <item>Konya</item>
+        <item>Kütahya</item>
+        <item>Malatya</item>
+        <item>Manisa</item>
+        <item>Mardin</item>
+        <item>Mersin</item>
+        <item>Muş</item>
+        <item>Nevşehir</item>
+        <item>Niğde</item>
+        <item>Ordu</item>
+        <item>Osmaniye</item>
+        <item>Rize</item>
+        <item>Sakarya</item>
+        <item>Samsun</item>
+        <item>Siirt</item>
+        <item>Sinop</item>
+        <item>Sivas</item>
+        <item>Şanlıurfa</item>
+        <item>Şırnak</item>
+        <item>Tekirdağ</item>
+        <item>Tokat</item>
+        <item>Trabzon</item>
+        <item>Tunceli</item>
+        <item>Uşak</item>
+        <item>Van</item>
+        <item>Yalova</item>
+        <item>Yozgat</item>
+        <item>Zonguldak</item>
+        <item>Tokyo</item>
+        <item>Beijing</item>
+        <item>Delhi</item>
+        <item>New York</item>
+        <item>São Paulo</item>
+        <item>Mexico City</item>
+        <item>Dhaka</item>
+        <item>Cairo</item>
+        <item>Kolkata</item>
+        <item>Lagos</item>
+        <item>Buenos Aires</item>
+        <item>Istanbul</item>
+        <item>Karachi</item>
+        <item>Chongqing</item>
+        <item>Lahore</item>
+        <item>Shenzhen</item>
+        <item>Jakarta</item>
+        <item>Manila</item>
+        <item>Rio de Janeiro</item>
+        <item>Osaka</item>
+        <item>Karachi</item>
+        <item>Kinshasa</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+        <item>Madrid</item>
+        <item>Seoul</item>
+        <item>Hong Kong</item>
+        <item>Toronto</item>
+        <item>Mumbai</item>
+        <item>Baghdad</item>
+        <item>Tehran</item>
+        <item>Jakarta</item>
+        <item>Buenos Aires</item>
+        <item>Bangkok</item>
+        <item>Athens</item>
+        <item>Stockholm</item>
+        <item>Abuja</item>
+        <item>Riyadh</item>
+        <item>Beirut</item>
+    </string-array>
+
+</resources>
